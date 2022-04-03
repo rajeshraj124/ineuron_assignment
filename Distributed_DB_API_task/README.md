@@ -17,6 +17,6 @@ Project to fetch data from MySQl & MongoDB.
 * Request URL: http://localhost:9000/db-app
 * Request Type: POST
 * Set `Content-Type` to `application/json` in request header
-* Request body: `{"db-name": "BPST", "collection": "my_collection","connection-string":"mongodb+srv://rajesh:Sonu124@cluster0.3dtrx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", "type": "MongoDB"}`
+* Request body: `{"db-name": "practice", "collection": "inventory","connection-string":"mongodb+srv://rajesh:Sonu124@cluster0.3dtrx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", "type": "MongoDB"}`
 
 <i>**Note:** Assumption - you have installed MySQL in your local system, and you can execute/run python code with required packages for this project.</i>
